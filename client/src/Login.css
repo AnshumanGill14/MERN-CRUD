@@ -1,0 +1,30 @@
+
+.loginPage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    padding: 2em;
+    width:1000px;
+  }
+
+  .buttons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .loginButton , .signUpButton{
+    width: 250px;
+  }
+  
+  
+  
+  .read-the-docs {
+    color: #888;
+  }
+  
